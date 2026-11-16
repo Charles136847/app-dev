@@ -1,9 +1,9 @@
 # app-dev
 My first repository.
 
-# My Favorite Movie
+# My Favorite Movie Series
 
-## Title: Back to the Future
+## Title: Back to the Future Part: 1, 2, and 3
 
 **Genre:** Science Fiction, Adventure, Comedy
 
